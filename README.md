@@ -1,1 +1,1 @@
-multilayer neural network made in go (from codecrafters build your own x)
+minimal shell made in rust (from codecrafters build your own x)
